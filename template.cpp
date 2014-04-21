@@ -2,6 +2,7 @@
 using namespace std;
 #define __ ios_base::sync_with_stdio(0); cin.tie(0);
 
+#define endl '\n'
 #define fr(i,j,n) for(int i=j;i<n;i++)
 #define FR(i,n) fr(i,0,n)
 #define foreach(it, x) for(typeof (x).begin() it = (x).begin(); it != (x).end(); ++it)
