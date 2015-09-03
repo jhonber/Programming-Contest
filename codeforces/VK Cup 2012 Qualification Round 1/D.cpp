@@ -1,3 +1,5 @@
+// http://codeforces.com/contest/158/problem/D
+
 #include<bits/stdc++.h>
 using namespace std;
 #define __ ios_base::sync_with_stdio(0); cin.tie(0);

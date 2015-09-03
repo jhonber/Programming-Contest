@@ -1,3 +1,5 @@
+// http://codeforces.com/contest/169/problem/B
+
 using namespace std;
 #include<algorithm>
 #include<iostream>
