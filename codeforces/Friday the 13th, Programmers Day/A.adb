@@ -1,3 +1,5 @@
+-- http://codeforces.com/contest/345/problem/A
+
 with Ada.Text_IO, Ada.Float_Text_IO, Ada.Integer_Text_IO;
 use Ada;
 use Ada.Text_IO;
