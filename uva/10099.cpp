@@ -1,4 +1,3 @@
-
 // https://uva.onlinejudge.org/external/100/10099.pdf
 
 #include<bits/stdc++.h>
