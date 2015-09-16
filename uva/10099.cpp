@@ -1,3 +1,5 @@
+// https://uva.onlinejudge.org/external/100/10099.pdf
+
 #include<bits/stdc++.h>
 using namespace std;
 #define __ ios_base::sync_with_stdio(0); cin.tie(0);
