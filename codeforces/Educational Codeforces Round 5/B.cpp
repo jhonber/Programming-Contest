@@ -3,7 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-#define IO ios_base::sync_with_stdio(NULL); cie.tie(false);
+#define IO ios_base::sync_with_stdio(false); cin.tie(NULL);
 #define endl '\n'
 #define D(x) cout << #x << " = " << (x) << endl;
 
