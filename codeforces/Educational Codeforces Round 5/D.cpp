@@ -18,11 +18,13 @@ int main() { IO
   int i = 0, j = 0;
   int mx = 1;
 
-  map<int, int> mapa;
+  int size = 0;
+  vector<int> cnt(2000222, 0);
   while (i < n && j < n) {
-    mapa[v[j]] ++;
+    if (!cnt[v[j]]) size ++;
+    cnt[v[j]] ++;
 
-    if (mapa.size() <= k) {
+    if (size <= k) {
       j ++;
       int t = (j - i) + 1;
       if (t > mx) {
@@ -31,13 +33,14 @@ int main() { IO
       }
     }
     else {
-      while (i < n && mapa.size() > k) {
-        mapa[v[i]] --;
-        if (!mapa[v[i]]) mapa.erase(v[i]);
+      while (i < n && size > k) {
+        cnt[v[i]] --;
+        if (!cnt[v[i]]) size --;
         i ++;
       }
 
-      mapa[v[j]] --;
+      cnt[v[j]] --;
+      if (!cnt[v[j]]) size --;
     }
   }
 
