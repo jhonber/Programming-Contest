@@ -1,46 +1,46 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
- 
+
+
 int mat[10][10];
 bool check (int x, int y) {
   for (int i = x, j = y;  i <= 8 && j <= 8; ++i, ++j) {
     if (mat[i][j]) return true;
   }
- 
+
   for (int i = x, j = y;  i >= 1 && j >= 1; --i, --j) {
     if (mat[i][j]) return true;
   }
- 
+
   for (int i = x, j = y;  i >= 1 && j <= 8; --i, ++j) {
     if (mat[i][j]) return true;
   }
- 
+
   for (int i = x, j = y;  i <= 8 && j >= 1; ++i, --j) {
     if (mat[i][j]) return true;
   }
- 
+
   for (int i = x;  i <= 8; ++i) {
     if (mat[x][i]) return true;
   }
- 
+
   for (int i = x;  i >= 1; --i) {
     if (mat[x][i]) return true;
   }
- 
+
   for (int i = x;  i <= 8; ++i) {
     if (mat[i][y]) return true;
   }
- 
+
   for (int i = x;  i >= 1; --i) {
     if (mat[i][y]) return true;
   }
- 
- 
- 
+
+
+
   return false;
 }
- 
+
 int main () {
   int x, y, x2, y2;
   while (cin >> x >> y >> x2 >> y2) {
