@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 int main() {
   int x;
   int cnt = 0;
@@ -8,7 +8,7 @@ int main() {
     cin >> x;
     if (x % 2 == 0) cnt ++;
   }
- 
+
   cout << cnt << " valores pares" << endl;
   return 0;
 }
