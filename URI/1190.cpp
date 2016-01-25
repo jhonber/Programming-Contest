@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 int main() {
   char op;
   cin >> op;
- 
+
   vector<int> v = {0,1,2,3,4,5,5,4,3,2,1,0};
   int tot = 0;
   double sum = 0;
@@ -16,7 +16,7 @@ int main() {
     }
     tot += v[i];
   }
- 
+
   if (op == 'M') printf("%.1lf\n", sum / tot);
   else printf("%.1lf\n", sum);
   return 0;
