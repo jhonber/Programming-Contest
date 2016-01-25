@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 int main() {
   char op;
   cin >> op;
@@ -14,9 +14,9 @@ int main() {
       x --;
     }
   }
- 
+
   if (op == 'S') printf("%.1lf\n", sum);
   else printf("%.1lf\n", sum / 66.);
- 
+
   return 0;
 }
