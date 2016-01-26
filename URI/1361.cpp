@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 int main() {
   int n,T;
   cin >> T;
@@ -14,10 +14,10 @@ int main() {
       if (a < 0) neg.push_back(abs(a));
       else pos.push_back(a);
     }
- 
+
     sort(neg.begin(), neg.end());
     sort(pos.begin(), pos.end());
- 
+
     int ans = 0;
     int bef = -1;
     for (int i = 0; i < neg.size(); ++i) {
@@ -32,7 +32,7 @@ int main() {
         break;
       }
     }
- 
+
     int ans2 = 0;
     int bef2 = -1;
     for (int i = 0; i < pos.size(); ++i) {
@@ -49,6 +49,6 @@ int main() {
     }
     cout << max(ans, ans2) << endl;
   }
- 
+
   return 0;
 }
