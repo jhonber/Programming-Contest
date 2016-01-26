@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 int main() {
   while (true) {
     vector<int> v(3);
@@ -15,7 +15,7 @@ int main() {
       cin >> v2[i];
       ready.insert(v2[i]);
     }
- 
+
     int found = false;
     if (v[0] + v[1] + v[2] + v2[1] + v2[2] == 0) break;
     for (int i = 1; i <= 52; ++i) {
@@ -23,7 +23,7 @@ int main() {
       vector<int> vv = v2;
       vv[0] = i;
       sort(vv.begin(), vv.end());
- 
+
       int bads = 0;
       do {
         int cnt = 0;
@@ -32,7 +32,7 @@ int main() {
         }
         if (cnt >= 2) bads ++;
       } while (next_permutation(vv.begin(), vv.end()));
- 
+
       if (!bads) {
         cout << i << endl;
         found = true;
@@ -41,6 +41,6 @@ int main() {
     }
     if (!found) cout << -1 << endl;
   }
- 
+
   return 0;
 }
