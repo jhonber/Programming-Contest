@@ -1,18 +1,18 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 bool is_vowel(char x) {
   return x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u';
 }
- 
+
 int main() {
   int n;
   cin >> n;
- 
+
   string s;
   for (int i = 0; i < n; ++i) {
     cin >> s;
- 
+
     int v = 0;
     int c = 0;
     int size = s.size();
@@ -25,7 +25,7 @@ int main() {
         cc.push_back(j);
       }
     }
- 
+
     printf("Caso #%d:\n", i + 1);
     int q;
     cin >> q;
@@ -62,6 +62,6 @@ int main() {
       }
     }
   }
- 
+
   return 0;
 }
