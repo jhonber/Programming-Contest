@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+
 int main() {
   int n;
   while (cin >> n) {
@@ -13,9 +13,9 @@ int main() {
       }
       n ++;
     }
- 
+
     cout << sum << endl;
   }
- 
+
   return 0;
 }
