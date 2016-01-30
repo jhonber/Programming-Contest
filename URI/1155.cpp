@@ -8,7 +8,7 @@ int main() {
     ans += 1.0/ i;
   }
 
-  cout << ans << endl;
+  printf("%.2lf\n", ans);
 
   return 0;
 }
