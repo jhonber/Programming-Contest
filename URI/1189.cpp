@@ -23,6 +23,7 @@ int main() {
       double a;
       cin >> a;
 
+
       if (i > 0 && i < 11 && j < cnt) {
         tot ++;
         sum += a;
