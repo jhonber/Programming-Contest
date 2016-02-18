@@ -28,6 +28,8 @@ int main() {
       if (check(v[2].first)) points[v[2].second] += 2;
       if (check(v[1].first)) points[v[1].second] += 1;
       if (check(v[0].first)) points[v[0].second] += 1;
+
+
     }
 
     int mx = 0;
