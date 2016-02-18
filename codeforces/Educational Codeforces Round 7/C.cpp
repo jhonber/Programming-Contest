@@ -26,10 +26,9 @@ int main() { IO
   }
 
   vector<int> next(n, -1);
-  for (int i = 0; i < n - 1; ++i) {
-    int ind = upper_bound(pos.begin(), pos.end(), i) - pos.begin();
-    if (ind == pos.size()) next[i] = -1;
-    else next[i] = pos[ind];
+  for (int i = n - 2; i >= 0; --i) {
+    if (v[i] == v[i + 1]) next[i] = next[i + 1];
+    else next[i] = i + 1;
   }
 
   for (int i = 0; i < m; ++i) {
