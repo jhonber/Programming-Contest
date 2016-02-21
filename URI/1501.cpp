@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+#define IO ios_base::sync_with_stdio(false); cin.tie(NULL);
+#define endl '\n'
+
 const int mx = (1 << 20) + 10;
 double fact_dig[mx];
 
@@ -13,7 +16,7 @@ void gen (int mx) {
   }
 }
 
-int main() {
+int main() { IO
   gen(mx);
 
   int n, b;
