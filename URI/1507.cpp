@@ -5,36 +5,46 @@ using namespace std;
 
 int main() {
   int t;
-  while (cin >> t) {
-    while (t --> 0) {
-      int q;
-      string s;
-      cin >> s >> q;
+  cin >> t;
 
-      string s2;
-      for (int x = 0; x < q; ++x) {
-        cin >> s2;
+  while (t --> 0) {
+    string s;
+    cin >> s;
 
-        int ind = 0;
-        int paila = false;
-        for (int i = 0; i < s2.size(); ++i) {
-          int found = false;
-          for (int j = ind; j < s.size(); ++j) if (s[j] == s2[i]) {
-            found = true;
-            ind = j + 1;
-            break;
-          }
+    vector<int> pos[222];
+    for (int i = 0; i < s.size(); ++i) {
+      pos[(int)s[i]].push_back(i);
+    }
 
-          if (!found) {
+    int q;
+    cin >> q;
+
+    string s2;
+    for (int i = 0; i < q; ++i) {
+      cin >> s2;
+
+      int last = 0;
+      int paila = false;
+
+      for (int j = 0; j < s2.size(); ++j) {
+        int x = s2[j];
+        auto it = lower_bound(pos[x].begin(), pos[x].end(), last);
+        if(it == pos[x].end()){
             paila = true;
             break;
-          }
         }
-
-        if (paila) cout << "No" << endl;
-        else cout << "Yes" << endl;
+        int ind = it - pos[x].begin();
+        if (j > pos[x][ind]) {
+          paila = true;
+          break;
+        }
+        last = pos[x][ind] + 1;
       }
+
+      if (!paila) cout << "Yes" << endl;
+      else cout << "No" << endl;
     }
+
   }
 
   return 0;
