@@ -14,6 +14,13 @@
 
 [1082 – Array Queries](http://lightoj.com/volume_showproblem.php?problem=1082&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/47b0e6685c18dc4dc3640fc7e1982628681ad718/codeforces/Codeforces%20Round%20%23223%20%28Div.%201%29/C.cpp) : **segment tree**
 
+[Cows and Sequence](http://lightoj.com/volume_showproblem.php?problem=1082&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23174%20%28Div.%202%29/C.cpp) : **fenwick tree**
+
+[Pasha and String](http://codeforces.com/problemset/problem/525/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23297%20%28Div.%202%29/B.cpp) : **fenwick tree**
+
+[Petr#](http://codeforces.com/problemset/problem/113/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Beta%20Round%20%2386%20%28Div.%201%20Only%29/B.cpp) : **hashing**
+
+[Watto and Mechanism](http://codeforces.com/problemset/problem/514/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23291%20%28Div.%202%29/C.cpp) : **trie**
 
 #### DP
 [1050 – Marbles](http://lightoj.com/volume_showproblem.php?problem=1050&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/413c6a4fa341d0ea223d610474b122c8f8359328/lightoj/1050.cpp) : **dp**
@@ -28,6 +35,15 @@
 
 [Destruction Cannon](https://www.urionlinejudge.com.br/judge/en/problems/view/1288) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1288.cpp) : **dp** + **expected value**
 
+[Tetrahedron](http://codeforces.com/problemset/problem/166/E) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23113%20%28Div.%202%29/E.cpp) : **dp**
+
+[k-Tree](http://codeforces.com/problemset/problem/431/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23247%20%28Div.%202%29/C.cpp) : **dp** + **trees**
+
+[A and B and Interesting Substrings](http://codeforces.com/problemset/problem/519/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23294%20%28Div.%202%29/D.cpp) : **dp**
+
+[Modulo Sum](http://codeforces.com/problemset/problem/577/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23319%20%28Div.%202%29/B.cpp) : **dp**
+
+[Kefa and Dishes](http://codeforces.com/problemset/problem/580/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23321%20%28Div.%202%29/D.cpp) : **dp** + **bitmasks**
 
 #### Graphs
 [Guilds](https://www.urionlinejudge.com.br/judge/en/problems/view/1527) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/7c82f24699833e413f70b407d7df9f71ed479951/URI/1527.cpp) : **disjoint set**
@@ -45,8 +61,16 @@
 
 [How Many Zeros and How Many Digits?](https://www.urionlinejudge.com.br/judge/en/problems/view/1501) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1501.cpp) : **factorial** + **trailing zeros** + **digit count** + **prime factorization** + **base conversion**
 
-[Quid Est Veritas? Est Vir Qui Adest!](https://www.urionlinejudge.com.br/judge/en/problems/view/1580) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1580.cpp) : **mod pow** + **modular arithmetic** + **modular inverse** + **permutations** + **santa marta**
+[Quid Est Veritas? Est Vir Qui Adest!](https://www.urionlinejudge.com.br/judge/en/problems/view/1580) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1580.cpp) : **mod pow** + **modular arithmetic** + **modular inverse** + **permutations** + **Santa Marta**
 
+[Fedya and Maths](http://codeforces.com/problemset/problem/456/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23260%20%28Div.%202%29/B.py) : **modular arithmetic**
+
+[Selection of Personnel](http://codeforces.com/problemset/problem/630/F) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Experimental%20Educational%20Round:%20VolBIT%20Formulas%20Blitz/F.cpp) : **Pascal triangle** + **combinatorics**
+
+#### Geometry
+[Rectangle Puzzle](http://codeforces.com/problemset/problem/281/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23172%20%28Div.%202%29/C.cpp) : **Sutherland Hodgman**
+
+[Nearest vectors](http://codeforces.com/problemset/problem/598/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Educational%20Codeforces%20Round%201/C.cpp) : **geometry**
 
 #### Matrices
 [1065 – Number Sequence](http://lightoj.com/volume_showproblem.php?problem=1065&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/2b92345529da619013525623f1de5b4028280a5d/lightoj/1065.cpp) : **matrices**
@@ -61,4 +85,4 @@
 
 
 #### Implementation
-[Roman Numerals for Page Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1960) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1960.cpp) : **roman numerals**
+[Roman Numerals for Page Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1960) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1960.cpp) : **Roman numerals**
