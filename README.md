@@ -30,11 +30,11 @@
 
 [1033 – Generating Palindromes](http://lightoj.com/volume_showproblem.php?problem=1033&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/0e19cbbcb0a853ccb2392f6eaba4e063729a7327/lightoj/1033.cpp) : **dp**
 
-[1011 – Marriage Ceremonies](http://lightoj.com/volume_showproblem.php?problem=1011&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/lightoj/1011.cpp) : **dp** + **bitmask**
+[1011 – Marriage Ceremonies](http://lightoj.com/volume_showproblem.php?problem=1011&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/lightoj/1011.cpp) : **dp** + **bitmaskS**
 
 [1038 – Race to 1 Again](http://lightoj.com/volume_showproblem.php?problem=1038&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/lightoj/1038.cpp) : **dp** + **expected value**
 
-[Destruction Cannon](https://www.urionlinejudge.com.br/judge/en/problems/view/1288) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1288.cpp) : **dp** + **expected value**
+[Destruction Cannon](https://www.urionlinejudge.com.br/judge/en/problems/view/1288) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1288.cpp) : **dp**
 
 [Tetrahedron](http://codeforces.com/problemset/problem/166/E) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23113%20%28Div.%202%29/E.cpp) : **dp**
 
