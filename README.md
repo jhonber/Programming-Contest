@@ -1,11 +1,11 @@
 ### Programming contest
   Solutions for some problems
 
-## Note:
+### Note:
 **Using [getSubmissions2.0](https://github.com/jhonber/getSubmissions2.0) to download automatically all submissions from Codeforces**
 
 
-### Some problems sorted by tag
+## Some problems sorted by tag
 
 #### Data structures
 [Babaei and Birthday Cake](http://www.codeforces.com/contest/629/problem/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/b3d3c631cab3c3580803bff35173124e37bdc565/codeforces/Codeforces%20Round%20%23343%20%28Div.%202%29/D.cpp) : **dp** + **segment tree**
@@ -22,6 +22,7 @@
 
 [Watto and Mechanism](http://codeforces.com/problemset/problem/514/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23291%20%28Div.%202%29/C.cpp) : **trie**
 
+---
 #### DP
 [1050 – Marbles](http://lightoj.com/volume_showproblem.php?problem=1050&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/413c6a4fa341d0ea223d610474b122c8f8359328/lightoj/1050.cpp) : **dp**
 
@@ -45,6 +46,7 @@
 
 [Kefa and Dishes](http://codeforces.com/problemset/problem/580/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23321%20%28Div.%202%29/D.cpp) : **dp** + **bitmasks**
 
+---
 #### Graphs
 [Guilds](https://www.urionlinejudge.com.br/judge/en/problems/view/1527) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/7c82f24699833e413f70b407d7df9f71ed479951/URI/1527.cpp) : **disjoint set**
 
@@ -56,6 +58,7 @@
 
 [Level Order Tree Traversal](https://www.urionlinejudge.com.br/judge/en/problems/view/1466) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1466.cpp) : **bfs** + **reconstruct**
 
+---
 #### Maths
 [Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1213) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1213.cpp) : **mod pow** + **modular arithmetic**
 
@@ -67,22 +70,26 @@
 
 [Selection of Personnel](http://codeforces.com/problemset/problem/630/F) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Experimental%20Educational%20Round:%20VolBIT%20Formulas%20Blitz/F.cpp) : **Pascal triangle** + **combinatorics**
 
+---
 #### Geometry
 [Rectangle Puzzle](http://codeforces.com/problemset/problem/281/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23172%20%28Div.%202%29/C.cpp) : **Sutherland Hodgman**
 
 [Nearest vectors](http://codeforces.com/problemset/problem/598/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Educational%20Codeforces%20Round%201/C.cpp) : **geometry**
 
+---
 #### Matrices
 [1065 – Number Sequence](http://lightoj.com/volume_showproblem.php?problem=1065&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/2b92345529da619013525623f1de5b4028280a5d/lightoj/1065.cpp) : **matrices**
 
+---
 #### Big integer
 [Factorial Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1161) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1161.cpp) : **Big integer**
 
+---
 #### Base conversion
 [Simple Base Conversion](https://www.urionlinejudge.com.br/judge/en/problems/view/1199) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1199.cpp) : **hexa** + **dec**
 
 [Base Conversion](https://www.urionlinejudge.com.br/judge/en/problems/view/1193) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1195.cpp) : **hexa** + **dec** + **bin**
 
-
+---
 #### Implementation
 [Roman Numerals for Page Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1960) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1960.cpp) : **Roman numerals**
