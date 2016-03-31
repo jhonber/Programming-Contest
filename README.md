@@ -54,6 +54,8 @@
 
 [Outing](https://ncpc14.kattis.com/problems/outing) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/kattis/The%202014%20Nordic%20Collegiate%20Programming%20Contest/G.cpp) : **dp** + **krustal**
 
+[New Reform](http://codeforces.com/contest/659/problem/E) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23346%20%28Div.%202%29/E.cpp): **cycles in undirected graphs** + **disjoint set**
+
 [Binary Search Tree](https://www.urionlinejudge.com.br/judge/en/problems/view/1195) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1195.cpp) : **bst** + **reconstruct** + **preorder** + **inorder** + **postorder**
 
 [Level Order Tree Traversal](https://www.urionlinejudge.com.br/judge/en/problems/view/1466) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1466.cpp) : **bfs** + **reconstruct**
