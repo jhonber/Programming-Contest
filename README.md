@@ -12,7 +12,7 @@
 
 [Sereja and Brackets](http://codeforces.com/contest/380/problem/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/47b0e6685c18dc4dc3640fc7e1982628681ad718/codeforces/Codeforces%20Round%20%23223%20%28Div.%201%29/C.cpp) : **segment tree**
 
-[1082 – Array Queries](http://lightoj.com/volume_showproblem.php?problem=1082&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/47b0e6685c18dc4dc3640fc7e1982628681ad718/codeforces/Codeforces%20Round%20%23223%20%28Div.%201%29/C.cpp) : **segment tree**
+[1082 – Array Queries](http://lightoj.com/volume_showproblem.php?problem=1082&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/lightoj/1082.cpp) : **segment tree**
 
 [Cows and Sequence](http://lightoj.com/volume_showproblem.php?problem=1082&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23174%20%28Div.%202%29/C.cpp) : **fenwick tree**
 
