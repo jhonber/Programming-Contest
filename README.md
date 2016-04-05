@@ -22,6 +22,8 @@
 
 [Watto and Mechanism](http://codeforces.com/problemset/problem/514/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23291%20%28Div.%202%29/C.cpp) : **trie**
 
+[Greedy](https://www.urionlinejudge.com.br/judge/en/problems/view/1594) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1594.cpp) : **deque**
+
 ---
 #### DP
 [1050 – Marbles](http://lightoj.com/volume_showproblem.php?problem=1050&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/413c6a4fa341d0ea223d610474b122c8f8359328/lightoj/1050.cpp) : **dp**
