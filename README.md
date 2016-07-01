@@ -62,6 +62,8 @@
 
 [Level Order Tree Traversal](https://www.urionlinejudge.com.br/judge/en/problems/view/1466) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1466.cpp) : **bfs** + **reconstruct**
 
+[NP-Hard Problem](http://codeforces.com/contest/687/problem/A) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23360%20(Div.%202)/C.cpp) : **bfs** + **Bipartite graph**
+
 ---
 #### Maths
 [Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1213) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1213.cpp) : **mod pow** + **modular arithmetic**
