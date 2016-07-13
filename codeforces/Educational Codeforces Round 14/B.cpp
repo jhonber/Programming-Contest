@@ -6,7 +6,7 @@ using namespace std;
 #define endl '\n'
 #define D(x) cout << #x << " = " << (x) << endl;
 
-string good = "AHIMOoTUVvWwXxYz";
+string good = "AHIMOoTUVvWwXxY";
 
 char mirror (char c) {
   if (c == 'd') return 'b';
