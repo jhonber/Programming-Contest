@@ -101,3 +101,5 @@
 ---
 #### Implementation
 [Roman Numerals for Page Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1960) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1960.cpp) : **Roman numerals**
+
+[Chasing the Cheetahs](http://contest.felk.cvut.cz/15prg/solved/cheetahs.pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/random/CTUOpenContest2015/ChasingTheCheetahs.cpp) : **Ternary Search** + **doubles**
