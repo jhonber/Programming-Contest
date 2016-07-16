@@ -29,37 +29,29 @@ void update (L &u, L &v, L &val) {
   if (u < v) swap(u, v);
   L p = u >> 1LL;
 
-  string k1 = make_key(p, u);
-  string k2 = make_key(u, p);
+  string k = make_key(u, p);
 
-  if (edges.count(k1) > 0) {
-    edges[k1] += val;
-  }
-  else if (edges.count(k2) > 0) {
-    edges[k2] += val;
+  if (edges.count(k) > 0) {
+    edges[k] += val;
   }
   else {
-    edges[k1] = val;
+    edges[k] = val;
   }
 
   update(p, v, val);
 }
 
-L calculate (L u, L v) {
+L calculate (L &u, L &v) {
   if (u == v) return 0LL;
 
   L tot = 0;
   if (u < v) swap(u, v);
   L p = u >> 1;
 
-  string k1 = make_key(p, u);
-  string k2 = make_key(u, p);
+  string k = make_key(u, p);
 
-  if (edges.count(k1) > 0) {
-    tot += edges[k1];
-  }
-  else if (edges.count(k2) > 0) {
-    tot += edges[k2];
+  if (edges.count(k) > 0) {
+    tot += edges[k];
   }
 
   tot += calculate(p, v);
@@ -67,7 +59,7 @@ L calculate (L u, L v) {
   return tot;
 }
 
-int main() {
+int main() { IO
   int q;
   cin >> q;
 
