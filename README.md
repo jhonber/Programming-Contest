@@ -7,6 +7,11 @@
 
 ## Some problems sorted by tag
 
+#### C++ courses
+[Hackerrank - Classes Challenges](https://www.hackerrank.com/domains/cpp/classes/difficulty/all/page/1) - [\[Solutions\]](https://github.com/jhonber/Programming-Contest/tree/master/hackerrank/C%2B%2B_Classes_Challenges) : **Classes and Objects** + **Structs** + **Templates** +  **Inheritance** + **Polymorphism**
+
+---
+
 #### Data structures
 [Babaei and Birthday Cake](http://www.codeforces.com/contest/629/problem/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/b3d3c631cab3c3580803bff35173124e37bdc565/codeforces/Codeforces%20Round%20%23343%20%28Div.%202%29/D.cpp) : **dp** + **segment tree**
 
