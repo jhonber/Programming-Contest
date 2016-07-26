@@ -29,6 +29,8 @@
 
 [Greedy](https://www.urionlinejudge.com.br/judge/en/problems/view/1594) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1594.cpp) : **deque**
 
+[Bit Array](https://www.hackerrank.com/challenges/bitset-1) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/hackerrank/Bit_array.cpp) : **Bit array** + **bitwise operations** + **cycle detection in sequence**
+
 ---
 #### DP
 [1050 – Marbles](http://lightoj.com/volume_showproblem.php?problem=1050&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/413c6a4fa341d0ea223d610474b122c8f8359328/lightoj/1050.cpp) : **dp**
