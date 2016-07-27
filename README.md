@@ -71,6 +71,8 @@
 
 [NP-Hard Problem](http://codeforces.com/contest/687/problem/A) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23360%20(Div.%202)/C.cpp) : **bfs** + **Bipartite graph**
 
+[Weekend](http://codeforces.com/gym/101020/problem/H) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/2015%20Syrian%20Private%20Universities%20Collegiate%20Programming%20Contest/H.cpp) : **Floyd Warshall** + **shortest path**
+
 ---
 #### Maths
 [Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1213) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1213.cpp) : **mod pow** + **modular arithmetic**
