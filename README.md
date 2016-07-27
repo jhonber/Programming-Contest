@@ -7,8 +7,15 @@
 
 ## Some problems sorted by tag
 
-#### C++ courses
-[Hackerrank - Classes Challenges](https://www.hackerrank.com/domains/cpp/classes/difficulty/all/page/1) - [\[Solutions\]](https://github.com/jhonber/Programming-Contest/tree/master/hackerrank/C%2B%2B_Classes_Challenges) : **Classes and Objects** + **Structs** + **Templates** +  **Inheritance** + **Polymorphism**
+### C++ courses
+#### Hackerrank
+[Introduction](https://www.hackerrank.com/domains/cpp/cpp-introduction/difficulty/all/page/1) - [\[Solutions\]](https://github.com/jhonber/Programming-Contest/tree/master/hackerrank/C%2B%2B_challenges/Introduction) : **data structure**
+
+[Strings](https://www.hackerrank.com/domains/cpp/cpp-strings/difficulty/all/page/1) - [\[Solutions\]](https://github.com/jhonber/Programming-Contest/tree/master/hackerrank/C%2B%2B_challenges/Strings) : **getline** + **parser** + **stringstream**
+
+[Classes](https://www.hackerrank.com/domains/cpp/classes/difficulty/all/page/1) - [\[Solutions\]](https://github.com/jhonber/Programming-Contest/tree/master/hackerrank/C%2B%2B_challenges/Classes) : **Classes and Objects** + **Structs** + **Templates** +  **Inheritance** + **Polymorphism**
+
+[STL](https://www.hackerrank.com/domains/cpp/stl/difficulty/all/page/1) - [\[Solutions\]](https://github.com/jhonber/Programming-Contest/tree/master/hackerrank/C%2B%2B_challenges/STL) : **deque** + **map**
 
 ---
 
@@ -29,7 +36,7 @@
 
 [Greedy](https://www.urionlinejudge.com.br/judge/en/problems/view/1594) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1594.cpp) : **deque**
 
-[Bit Array](https://www.hackerrank.com/challenges/bitset-1) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/hackerrank/Bit_array.cpp) : **Bit array** + **bitwise operations** + **cycle detection in sequence**
+[Bit Array](https://www.hackerrank.com/challenges/bitset-1) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/hackerrank/C%2B%2B_challenges/Introduction/Bit_array.cpp) : **Bit array** + **bitwise operations** + **cycle detection in sequence**
 
 ---
 #### DP
