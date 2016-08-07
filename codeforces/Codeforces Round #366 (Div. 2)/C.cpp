@@ -5,13 +5,14 @@ using namespace std;
 
 #define endl '\n'
 #define D(x) cout << #x << " = " << (x) << endl;
+#define IO ios_base::sync_with_stdio(false); cin.tie(NULL);
 
-int main() {
+int main() { IO
   int n, q;
   cin >> n >> q;
 
   vector<int> arr(333000, 0);
-  map<int, set<int>> apps;
+  unordered_map<int, vector<int>> apps;
   int unread = 0;
   int lastRead = 0;
 
@@ -21,18 +22,20 @@ int main() {
     cin >> op >> x; x--;
 
     if (op == 1) {
-      apps[x].insert(ind);
+      apps[x].push_back(ind);
       arr[ind] ++;
       unread ++;
       ind ++;
     }
     else if (op == 2) {
-      set<int> st = apps[x];
-      apps[x].clear();
+      if (apps.count(x) > 0) {
+        vector<int> v = apps[x];
+        apps[x].clear();
 
-      for (auto j: st) {
-        unread -= arr[j];
-        arr[j] = 0;
+        for (auto j: v) {
+          unread -= arr[j];
+          arr[j] = 0;
+        }
       }
     }
     else {
