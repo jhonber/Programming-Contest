@@ -96,6 +96,8 @@
 
 [Iterated Linear Function](http://codeforces.com/contest/678/problem/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/4d49489b358864f0d69e4467b7785ce7b8f9bf4b/codeforces/Educational%20Codeforces%20Round%2013/D.cpp) : **mod pow** + **mod inverse** + **modular arithmetic**
 
+[Star](https://www.urionlinejudge.com.br/judge/en/problems/view/1233) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1233.cpp) : **Euler's totient**
+
 ---
 #### Geometry
 [Rectangle Puzzle](http://codeforces.com/problemset/problem/281/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23172%20%28Div.%202%29/C.cpp) : **Sutherland Hodgman**
