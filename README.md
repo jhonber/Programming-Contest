@@ -82,6 +82,8 @@
 
 [Weekend](http://codeforces.com/gym/101020/problem/H) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/2015%20Syrian%20Private%20Universities%20Collegiate%20Programming%20Contest/H.cpp) : **Floyd Warshall** + **shortest path**
 
+[Directed Roads](http://codeforces.com/contest/711/problem/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23369%20(Div.%202)/D.cpp) : **Mod pow** + **disjoint set**
+
 ---
 #### Maths
 [Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1213) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1213.cpp) : **mod pow** + **modular arithmetic**
