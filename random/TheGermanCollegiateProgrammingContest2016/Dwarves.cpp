@@ -1,3 +1,6 @@
+// A - Dwarves
+// https://icpc.tum.de/content/contests/history/2016/gcpc_files/gcpc2016.pdf
+
 #include<bits/stdc++.h>
 using namespace std;
 
