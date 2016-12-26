@@ -84,6 +84,8 @@
 
 [Directed Roads](http://codeforces.com/contest/711/problem/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23369%20(Div.%202)/D.cpp) : **Mod pow** + **disjoint set**
 
+[A - Dwarves](https://icpc.tum.de/content/contests/history/2016/gcpc_files/gcpc2016.pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/random/TheGermanCollegiateProgrammingContest2016/Dwarves.cpp) : **cycles in directed graphs**
+
 ---
 #### Maths
 [Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1213) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1213.cpp) : **mod pow** + **modular arithmetic**
