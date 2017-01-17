@@ -38,6 +38,8 @@
 
 [Bit Array](https://www.hackerrank.com/challenges/bitset-1) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/hackerrank/C%2B%2B_challenges/Introduction/Bit_array.cpp) : **Bit array** + **bitwise operations** + **cycle detection in sequence**
 
+[Present](http://codeforces.com/contest/460/problem/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23262%20(Div.%202)/C.cpp) : **Sqrt N decomposition**
+
 ---
 #### DP
 [1050 – Marbles](http://lightoj.com/volume_showproblem.php?problem=1050&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/413c6a4fa341d0ea223d610474b122c8f8359328/lightoj/1050.cpp) : **dp**
