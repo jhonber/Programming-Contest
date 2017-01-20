@@ -131,3 +131,5 @@
 [Chasing the Cheetahs](http://contest.felk.cvut.cz/15prg/solved/cheetahs.pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/random/CTUOpenContest2015/ChasingTheCheetahs.cpp) : **Ternary Search** + **doubles**
 
 [Sequence analysis](http://codeforces.com/problemset/gymProblem/100503/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/2014-2015%20CT%20S02E05:%20Codeforces%20Trainings%20Season%202%20Episode%205%20-%202009-2010%20ACM-ICPC%2C%20NEERC%2C%20Southern%20Subregional%20Contest/D.cpp) : **cycle detection in sequence** + **floyd** + **tortoise and hare**
+
+[Friends and Presents](http://codeforces.com/problemset/problem/483/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23275%20(Div.%202)/B.cpp) : **Binary Search**
