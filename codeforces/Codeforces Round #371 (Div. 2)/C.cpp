@@ -1,3 +1,5 @@
+// http://codeforces.com/contest/714/problem/C
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -5,7 +7,7 @@ using namespace std;
 #define D(x) cout << #x << " = " << (x) << endl;
 
 const int MN = 2; // size of alphabet
-const int MS = 600000; // Number of states.
+const int MS = 600600; // Number of states.
 
 struct trie {
   struct node {
@@ -26,7 +28,7 @@ struct trie {
     clear();
   }
 
-  int add (const string &s, bool query = 0) {
+  int ope (const string &s, int val, bool query = 0) {
     int cur_node = 0;
     for (int i = 0; i < s.size(); ++i) {
       int id = s[i] - '0';
@@ -37,36 +39,10 @@ struct trie {
       }
       cur_node = tree[cur_node].a[id];
     }
-    if (!query) tree[cur_node].c++;
+    if (!query) tree[cur_node].c += val;
     return tree[cur_node].c;
   }
 
-  int del (const string &s, bool query = 0) {
-    int cur_node = 0;
-    for (int i = 0; i < s.size(); ++i) {
-      int id = s[i] - '0';
-      if (tree[cur_node].a[id] == -1) {
-        if (query) return 0;
-        tree[cur_node].a[id] = nodes;
-        clear();
-      }
-      cur_node = tree[cur_node].a[id];
-    }
-    if (!query) tree[cur_node].c--;
-    return tree[cur_node].c;
-  }
-
-  int count (const string &s) {
-    int cur_node = 0;
-    for (int i = 0; i < s.size(); ++i) {
-      int id = s[i] - '0';
-      if (tree[cur_node].a[id] == -1) {
-        return 0;
-      }
-      cur_node = tree[cur_node].a[id];
-    }
-    return tree[cur_node].c;
-  }
 };
 
 void normalize (string &s) {
@@ -100,10 +76,10 @@ int main() {
       reverse(s.begin(), s.end());
 
       if (op == '+') {
-        tree.add(s);
+        tree.ope(s, 1, 0);
       }
       else {
-        tree.del(s);
+        tree.ope(s, -1, 0);
       }
     }
     else {
@@ -113,7 +89,7 @@ int main() {
       normalize(x);
       reverse(x.begin(), x.end());
 
-      cout << tree.count(x) << endl;
+      cout << tree.ope(x, 0, 1) << endl;
     }
   }
 
