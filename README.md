@@ -106,6 +106,8 @@
 
 [Molly's Chemicals](http://codeforces.com/contest/776/problem/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/ICM%20Technex%202017%20and%20Codeforces%20Round%20%23400%20(Div.%201%20%2B%20Div.%202%2C%20combined)/C.cpp) : **prefix sum** -> Be careful using **unordered_map** on codeforces, in the worse case the complexity is O(n) because of collisions. Compiler used in codeforces is MinGW g++.exe (GCC) 4.9.2
 
+[Wonder Room](http://codeforces.com/contest/466/problem/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23266%20(Div.%202)/B.cpp) : **math**
+
 ---
 #### Geometry
 [Rectangle Puzzle](http://codeforces.com/problemset/problem/281/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23172%20%28Div.%202%29/C.cpp) : **Sutherland Hodgman**
