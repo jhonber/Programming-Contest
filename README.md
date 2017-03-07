@@ -66,6 +66,8 @@
 
 [Magic Spells](https://www.hackerrank.com/challenges/magic-spells) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/hackerrank/C%2B%2B_challenges/Inheritance/Magic_Spells.cpp) : **dp** + **longest commom subsequence**
 
+[Barcode](http://codeforces.com/contest/225/problem/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23139%20(Div.%202)/C.cpp) : **dp**
+
 ---
 #### Graphs
 [Guilds](https://www.urionlinejudge.com.br/judge/en/problems/view/1527) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/7c82f24699833e413f70b407d7df9f71ed479951/URI/1527.cpp) : **disjoint set**
