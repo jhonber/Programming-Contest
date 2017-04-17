@@ -116,6 +116,8 @@
 
 [Nearest vectors](http://codeforces.com/problemset/problem/598/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Educational%20Codeforces%20Round%201/C.cpp) : **geometry**
 
+[Volatile Kite](http://codeforces.com/contest/801/problem/D) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23409%20(rated%2C%20Div.%202%2C%20based%20on%20VK%20Cup%202017%20Round%202)/D.cpp) : **geometry**
+
 ---
 #### Matrices
 [1065 – Number Sequence](http://lightoj.com/volume_showproblem.php?problem=1065&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/2b92345529da619013525623f1de5b4028280a5d/lightoj/1065.cpp) : **matrices**
