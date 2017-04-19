@@ -40,6 +40,8 @@
 
 [Present](http://codeforces.com/contest/460/problem/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23262%20(Div.%202)/C.cpp) : **Sqrt N decomposition**
 
+[Rectangle Path](https://csacademy.com/contest/round-25/#task/rectangle-path) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/csacademy/Round25/C.cpp) : **Summed area table**
+
 ---
 #### DP
 [1050 – Marbles](http://lightoj.com/volume_showproblem.php?problem=1050&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/413c6a4fa341d0ea223d610474b122c8f8359328/lightoj/1050.cpp) : **dp**
