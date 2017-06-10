@@ -44,6 +44,8 @@
 
 [Fountains](http://codeforces.com/contest/799/problem/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Playrix%20Codescapes%20Cup%20(Codeforces%20Round%20%23413%2C%20rated%2C%20Div.%201%20%2B%20Div.%202)/C.cpp) : **Maximum value in range**
 
+[Prefix free subset](https://csacademy.com/contest/virtual6147/task/prefix-free-subset/statistics/) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/csacademy/Round30/D.cpp) : **trie**
+
 ---
 #### DP
 [1050 – Marbles](http://lightoj.com/volume_showproblem.php?problem=1050&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/413c6a4fa341d0ea223d610474b122c8f8359328/lightoj/1050.cpp) : **dp**
