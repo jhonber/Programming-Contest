@@ -116,6 +116,10 @@
 
 [Wonder Room](http://codeforces.com/contest/466/problem/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23266%20(Div.%202)/B.cpp) : **math**
 
+[Binomial Coefficients](http://poj.org/problem?id=3219) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/poj/3219.cpp) : **math** + **combinatorics** + **Parity**
+
+[Odds and Evens 2.0](https://www.urionlinejudge.com.br/judge/en/problems/view/1904) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1904.cpp) : **math** + **combinatorics** + **Parity** + **Stars and Bars**
+
 ---
 #### Geometry
 [Rectangle Puzzle](http://codeforces.com/problemset/problem/281/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23172%20%28Div.%202%29/C.cpp) : **Sutherland Hodgman**
