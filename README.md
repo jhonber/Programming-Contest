@@ -58,6 +58,8 @@
 
 [1038 – Race to 1 Again](http://lightoj.com/volume_showproblem.php?problem=1038&language=english&type=pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/lightoj/1038.cpp) : **dp** + **expected value**
 
+[Journey](http://codeforces.com/problemset/problem/839/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23428%20(Div.%202)/C.cpp) : **expected value**
+
 [Destruction Cannon](https://www.urionlinejudge.com.br/judge/en/problems/view/1288) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1288.cpp) : **dp**
 
 [Tetrahedron](http://codeforces.com/problemset/problem/166/E) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23113%20%28Div.%202%29/E.cpp) : **dp**
