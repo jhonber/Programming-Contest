@@ -122,6 +122,8 @@
 
 [Odds and Evens 2.0](https://www.urionlinejudge.com.br/judge/en/problems/view/1904) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1904.cpp) : **math** + **combinatorics** + **Parity** + **Stars and Bars**
 
+[13074 	Fixed-point theorem](https://uva.onlinejudge.org/external/130/13074.pdf) - [\[source\]](https://raw.githubusercontent.com/jhonber/Programming-Contest/master/uva/13074.cpp) : **math** + **LCM**
+
 ---
 #### Geometry
 [Rectangle Puzzle](http://codeforces.com/problemset/problem/281/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23172%20%28Div.%202%29/C.cpp) : **Sutherland Hodgman**
