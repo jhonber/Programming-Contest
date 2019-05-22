@@ -98,6 +98,8 @@
 
 [A - Dwarves](https://icpc.tum.de/content/contests/history/2016/gcpc_files/gcpc2016.pdf) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/random/TheGermanCollegiateProgrammingContest2016/Dwarves.cpp) : **cycles in directed graphs**
 
+[News Distribution](https://codeforces.com/contest/1167/problem/C) - [\[source\]](https://codeforces.com/contest/1167/submission/54490221) : **disjoint set**
+
 ---
 #### Maths
 [Ones](https://www.urionlinejudge.com.br/judge/en/problems/view/1213) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/URI/1213.cpp) : **mod pow** + **modular arithmetic**
