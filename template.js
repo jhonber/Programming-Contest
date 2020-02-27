@@ -9,5 +9,5 @@ const getInts = () => getLine().map(n => parseInt(n))
 const getInt = () => readInts()[0]
 
 // main()
-const main = () => {
+function main () {
 }
