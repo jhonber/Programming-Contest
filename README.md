@@ -159,3 +159,6 @@
 [Friends and Presents](http://codeforces.com/problemset/problem/483/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23275%20(Div.%202)/B.cpp) : **Binary Search**
 
 [The Meeting Place Cannot Be Changed](http://codeforces.com/contest/782/problem/B) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23403%20(Div.%202%2C%20based%20on%20Technocup%202017%20Finals)/B.cpp) : **Binary Search** + **intersection between N ranges [l, r]**
+
+[Perform the Combo](https://codeforces.com/contest/1311/problem/C) - [\[source\]](https://github.com/jhonber/Programming-Contest/blob/master/codeforces/Codeforces%20Round%20%23624%20(Div.%203)/C.js) : **Prefix sum**
+
